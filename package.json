@@ -1,0 +1,13 @@
+{
+  "name": "ai-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Arabic AI chat app powered by Claude, deployable to Netlify",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.129.0"
+  }
+}
